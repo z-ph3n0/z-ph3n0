@@ -20,13 +20,6 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
   <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl">
 </p>
 
-# 📊 Statistiques GitHub :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ph3n0&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" alt="Statistiques GitHub"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ph3n0&theme=shadow_red&hide_border=false" alt="Streak GitHub"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph3n0&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Langues les plus utilisées">
-</p>
-
 ## 📫 Contact
 
 - Discord : `._ph3n0_.`
