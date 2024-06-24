@@ -3,7 +3,7 @@
 <h1>w3LcOme T0 My W0rLd 🖥️</h1>
 
 ## 🔴 À propos de moi :
-Je suis un développeur web passionné utilisant Symfony, PHP, Laravel, HTML, CSS et JS, avec également une expérience en Python, Perl, C++ et C. Passionné par la cybersécurité.<br>
+Je suis un développeur web passionné à moitié par la cybersécurité utilisant Symfony, PHP, Laravel, HTML, CSS et JS, avec également une expérience en Python, Perl, C++ et C.<br>
 
 ## 🔴 Technologies :
 <img src="https://img.shields.io/badge/HTML5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
