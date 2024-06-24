@@ -1,7 +1,5 @@
-<!-- Titre -->
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
-<!-- Badges (Exemple : Langages utilisés) -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-Expert-orange">
   <img src="https://img.shields.io/badge/CSS-Expert-blue">
@@ -14,12 +12,10 @@
   <img src="https://img.shields.io/badge/C++-Advanced-brightgreen">
 </p>
 
-<!-- Introduction -->
 <p align="center">
   Salut, je suis Ph3n0 ! Développeur passionné avec une expérience approfondie dans divers langages de programmation. Bienvenue sur mon profil où vous trouverez une collection de projets et de contributions dans différents domaines du développement logiciel.
 </p>
 
-<!-- Sections : À propos, Compétences, Projets, Contact -->
 
 ## 🚀 Compétences
 
@@ -37,9 +33,8 @@ Voici quelques-uns de mes projets notables :
 
 ## 📫 Contact
 
-- Discord : ._ph3n0_.
+- Discord : ``._ph3n0_.``
 
-<!-- Footer -->
 <p align="center">
   N'hésitez pas à explorer mes projets ci-dessus et à me contacter pour toute collaboration ou opportunité de développement passionnante !
 </p>
