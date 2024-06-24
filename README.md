@@ -3,7 +3,7 @@
 ## 🔴 À propos de moi :
 Je suis un développeur web passionné utilisant Symfony, PHP, Laravel, HTML, CSS et JS, avec également une expérience en Python, Perl, C++ et C.<br>
 
-## 💻 Technologies :
+## 🔴 Technologies :
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -17,7 +17,7 @@ Je suis un développeur web passionné utilisant Symfony, PHP, Laravel, HTML, CS
   <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl">
 </p>
 
-## 📫 Contact
+## 🔴 Contact
 
 - Discord : ``._ph3n0_.``
 
