@@ -34,6 +34,12 @@ Voici quelques-uns de mes projets notables :
 1. **[rip](https://github.com/z-ph3n0/rip)**
 2. **[XTool](https://github.com/z-ph3n0/XTool)**
 
+## 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=z-ph3n0&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=MasterPHP" alt="Trophées GitHub">
+</p>
+
 ## 📫 Contact
 
 - Discord : `._ph3n0_.`
