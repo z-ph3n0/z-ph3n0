@@ -1,12 +1,13 @@
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
+![Snake animation](https://github.com/z-ph3n0/z-ph3n0/blob/output/github-contribution-grid-snake.svg)
 
 # 💫 À propos de moi :
 Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, mais j'ai aussi une petite expérience en Python, Perl, C++ et C.<br>
 
 # 💻 Technologies :
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/HTML5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -27,6 +28,13 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ph3n0&icon=0&color=0" alt="Compteur de visites">
+  <img src="https://visitcount.itsvg.in/api?id=z-ph3n0&icon=0&color=0" alt="Compteur de visites">
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://github.com/z-ph3n0/z-ph3n0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
