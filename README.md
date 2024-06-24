@@ -33,7 +33,7 @@
 ## 🛠️ Projets
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/hacker-hacking-in-the-dark-h2fu99nutzo132op.gif" width="300">
+  <img src="https://i.gifer.com/EgUx.gif" width="300">
 </p>
 
 Voici quelques-uns de mes projets notables :
