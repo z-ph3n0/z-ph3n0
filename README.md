@@ -28,8 +28,8 @@
 
 Voici quelques-uns de mes projets notables :
 
-1. **[rip](https://github.com/z-ph3n0/rip)**.
-2. **[XTool](https://github.com/z-ph3n0/XTool)**.
+1. **[rip](https://github.com/z-ph3n0/rip)**
+2. **[XTool](https://github.com/z-ph3n0/XTool)**
 
 ## 📫 Contact
 
