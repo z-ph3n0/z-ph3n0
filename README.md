@@ -9,7 +9,7 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
 
 # 💻 Technologies :
 <p align="center">
-  <img src="https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/HTML5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
