@@ -19,7 +19,7 @@ Je suis un développeur web passionné à moitié par la cybersécurité utilisa
 
 ## 🟣 Contact
 
-- Discord : ``._ph3n0_.``
+ Discord : ``._ph3n0_.``
 
 N'hésitez pas à explorer mes projets ci-dessus et à me contacter pour toute collaboration ou opportunité de développement passionnante !
 
