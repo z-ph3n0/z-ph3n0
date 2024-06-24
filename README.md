@@ -19,7 +19,7 @@ Je suis un développeur web passionné utilisant Symfony, PHP, Laravel, HTML, CS
 
 ## 📫 Contact
 
-- Discord : ._ph3n0_.
+- Discord : ``._ph3n0_.``
 
 <p align="center">
   N'hésitez pas à explorer mes projets ci-dessus et à me contacter pour toute collaboration ou opportunité de développement passionnante !
