@@ -27,8 +27,12 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
 
 ---
 
+## Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/z-ph3n0/z-ph3n0/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</p>
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=z-ph3n0&icon=0&color=0" alt="Compteur de visites">
 </p>
-
-![](https://raw.githubusercontent.com/z-ph3n0/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
