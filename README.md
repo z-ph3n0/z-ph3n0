@@ -1,4 +1,4 @@
-<h1 align="center">W3lC0Me T0 My W0rLd 💻</h1>
+<h1 align="center">W3lC0Me T0 My W0rLd 🖥️</h1>
 
 ## 💫 À propos de moi :
 Je suis un développeur web passionné utilisant Symfony, PHP, Laravel, HTML, CSS et JS, avec également une expérience en Python, Perl, C++ et C.<br>
