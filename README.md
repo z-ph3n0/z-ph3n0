@@ -1,13 +1,13 @@
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-orange">
-  <img src="https://img.shields.io/badge/CSS-Expert-blue">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow">
-  <img src="https://img.shields.io/badge/PHP-Master-purple">
-  <img src="https://img.shields.io/badge/Perl-Advanced-blueviolet">
-  <img src="https://img.shields.io/badge/Ruby-Proficient-red">
-  <img src="https://img.shields.io/badge/Python-Advanced-green">
+  <img src="https://img.shields.io/badge/HTML-Senior-orange">
+  <img src="https://img.shields.io/badge/CSS-Senior-blue">
+  <img src="https://img.shields.io/badge/JavaScript-Senior-yellow">
+  <img src="https://img.shields.io/badge/PHP-Senior-purple">
+  <img src="https://img.shields.io/badge/Perl-Junior-blueviolet">
+  <img src="https://img.shields.io/badge/Ruby-Junior-red">
+  <img src="https://img.shields.io/badge/Python-Junior-green">
   <img src="https://img.shields.io/badge/C-Junior-blue">
   <img src="https://img.shields.io/badge/C++-Junior-brightgreen">
 </p>
