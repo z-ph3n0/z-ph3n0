@@ -33,7 +33,7 @@
 ## 🛠️ Projets
 
 <p align="center">
-  <img src="https://i.gifer.com/EgUx.gif" width="300">
+  <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/a6b69c5cb0a0648106951f6d63d37498.gif" width="300">
 </p>
 
 Voici quelques-uns de mes projets notables :
