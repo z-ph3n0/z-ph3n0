@@ -2,10 +2,10 @@
 
 <h1>w3LcOme T0 My W0rLd 🖥️</h1>
 
-## 🔴 À propos de moi :
+## 🟣 À propos de moi :
 Je suis un développeur web passionné à moitié par la cybersécurité utilisant Symfony, PHP, Laravel, HTML, CSS et JS, avec également une expérience en Python, Perl, C++ et C.<br>
 
-## 🔴 Technologies :
+## 🟣 Technologies :
 <img src="https://img.shields.io/badge/HTML5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -17,7 +17,7 @@ Je suis un développeur web passionné à moitié par la cybersécurité utilisa
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl">
 
-## 🔴 Contact
+## 🟣 Contact
 
 - Discord : ``._ph3n0_.``
 
