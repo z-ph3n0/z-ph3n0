@@ -44,10 +44,6 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
   <img src="https://github-profile-trophy.vercel.app/?username=ph3n0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophées GitHub">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ph3n0&theme=dracula&title=Master PHP" alt="Master PHP">
-</p>
-
 ## 📫 Contact
 
 - Discord : `._ph3n0_.`
