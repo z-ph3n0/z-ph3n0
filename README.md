@@ -1,8 +1,6 @@
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
-<p align="center">
-  <img src="http://i.gifer.com/EgUx.gif" width="300">
-</p>
+  <img src="https://i.gifer.com/EgUx.gif" width="300">
 
 # 💫 À propos de moi :
 Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, mais j'ai aussi une petite expérience en Python, Perl, C++ et C.<br>
