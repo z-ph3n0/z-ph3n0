@@ -31,4 +31,4 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
   <img src="https://visitcount.itsvg.in/api?id=z-ph3n0&icon=0&color=0" alt="Compteur de visites">
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=z-ph3n0&theme=dark" alt="GitHub contributions">
+[![GitHub Contributions](https://img.shields.io/github/last-commit/z-ph3n0/z-ph3n0)](https://github.com/z-ph3n0)
