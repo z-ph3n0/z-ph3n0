@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Perl-Advanced-blueviolet">
   <img src="https://img.shields.io/badge/Ruby-Proficient-red">
   <img src="https://img.shields.io/badge/Python-Advanced-green">
-  <img src="https://img.shields.io/badge/C-Advanced-blue">
-  <img src="https://img.shields.io/badge/C++-Advanced-brightgreen">
+  <img src="https://img.shields.io/badge/C-Junior-blue">
+  <img src="https://img.shields.io/badge/C++-Junior-brightgreen">
 </p>
 
 <p align="center">
