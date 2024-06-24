@@ -37,7 +37,11 @@ Voici quelques-uns de mes projets notables :
 ## 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=z-ph3n0&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=MasterPHP" alt="Trophées GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=z-ph3n0&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophées GitHub">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=z-ph3n0&theme=dracula&title=Master PHP" alt="Master PHP">
 </p>
 
 ## 📫 Contact
