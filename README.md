@@ -31,4 +31,4 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
   <img src="https://visitcount.itsvg.in/api?id=z-ph3n0&icon=0&color=0" alt="Compteur de visites">
 </p>
 
-![Contribution Graph](./dist/github-snake.svg)
+![Contribution Graph](./github-snake.svg)
