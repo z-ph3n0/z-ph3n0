@@ -1,18 +1,6 @@
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-Senior-orange">
-  <img src="https://img.shields.io/badge/CSS-Senior-blue">
-  <img src="https://img.shields.io/badge/JavaScript-Senior-yellow">
-  <img src="https://img.shields.io/badge/PHP-Senior-purple">
-  <img src="https://img.shields.io/badge/Perl-Junior-blueviolet">
-  <img src="https://img.shields.io/badge/Ruby-Junior-red">
-  <img src="https://img.shields.io/badge/Python-Junior-green">
-  <img src="https://img.shields.io/badge/C-Junior-blue">
-  <img src="https://img.shields.io/badge/C++-Junior-brightgreen">
-</p>
-
-<p align="center">
   <img src="https://i.gifer.com/EgUx.gif" width="300">
 </p>
 
