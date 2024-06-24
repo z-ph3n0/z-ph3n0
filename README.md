@@ -13,13 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0JIQyrMlRPlb1otqM/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/1eEHN09odMxy63OVwe/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/3o7aD6tpvD02rP3CEo/giphy.gif" width="50">
-</p>
-
-<p align="center">
   Salut, je suis Ph3n0 ! Développeur passionné avec une expérience approfondie dans divers langages de programmation. Bienvenue sur mon profil où vous trouverez une collection de projets et de contributions dans différents domaines du développement logiciel.
 </p>
 
@@ -33,7 +26,7 @@
 ## 🛠️ Projets
 
 <p align="center">
-  <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/a6b69c5cb0a0648106951f6d63d37498.gif" width="300">
+  <img src="https://i.gifer.com/EgUx.gif" width="300">
 </p>
 
 Voici quelques-uns de mes projets notables :
@@ -44,10 +37,6 @@ Voici quelques-uns de mes projets notables :
 ## 📫 Contact
 
 - Discord : `._ph3n0_.`
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD7q8EYLfS0BRwA/giphy.gif" width="200">
-</p>
 
 <p align="center">
   N'hésitez pas à explorer mes projets ci-dessus et à me contacter pour toute collaboration ou opportunité de développement passionnante !
