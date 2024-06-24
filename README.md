@@ -27,11 +27,6 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph3n0&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Langues les plus utilisées">
 </p>
 
-## 🏆 Trophées GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ph3n0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophées GitHub">
-</p>
-
 ## 📫 Contact
 
 - Discord : `._ph3n0_.`
