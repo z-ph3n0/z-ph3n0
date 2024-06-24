@@ -1,7 +1,5 @@
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
-<img src="https://github.com/z-ph3n0/z-ph3n0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
 # 💫 À propos de moi :
 Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, mais j'ai aussi une petite expérience en Python, Perl, C++ et C.<br>
 
@@ -32,3 +30,5 @@ Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=z-ph3n0&icon=0&color=0" alt="Compteur de visites">
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=z-ph3n0&theme=dark" alt="GitHub contributions">
