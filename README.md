@@ -1,7 +1,5 @@
 <h1 align="center">Bienvenue sur mon profil ! 👋</h1>
 
-![image description](https://i.gifer.com/24Br.gif)
-
 # 💫 À propos de moi :
 Je suis un développeur web qui utilise Symfony, PHP, Laravel, HTML, CSS et JS, mais j'ai aussi une petite expérience en Python, Perl, C++ et C.<br>
 
