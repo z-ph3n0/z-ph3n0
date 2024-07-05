@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://i.imgur.com/v2ddbmU.png)
+![Header](https://i.imgur.com/g1h2gQw.gif)
 
 <h1>w3LcOme T0 My W0rLd 🖥️</h1>
 
