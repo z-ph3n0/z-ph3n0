@@ -23,7 +23,7 @@ Feel free to explore my projects and contact me for collaborations! |
 N'hésitez pas à explorer mes projets et à me contacter pour des collaborations !
 </p>
 <hr>
-<h2>Contributions | Contributions</h2>
+<h2>Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z-ph3n0/z-ph3n0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z-ph3n0/z-ph3n0/output/github-contribution-grid-snake.svg">
